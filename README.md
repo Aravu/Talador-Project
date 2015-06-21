@@ -49,13 +49,3 @@ Read file [COPYING](COPYING)
 
 Read file [THANKS](THANKS)
 
-
-## Links
-
-[Site](http://www.trinitycore.org)
-
-[Wiki](http://trinitycore.info)
-
-[Documentation](http://www.trinitycore.net) (powered by Doxygen)
-
-[Forums](http://www.trinitycore.org/f/)
